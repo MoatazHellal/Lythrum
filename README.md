@@ -16,4 +16,15 @@ Here's what makes Lythrum a unique experience :
 
 ## Gameplay Preview
 
-This is the game demo so buckle up and prepare for an exhilarating conquest!
+This is the game demo so buckle up and prepare for an exhilarating conquest!<br>
+https://drive.google.com/drive/u/0/folders/10z12OH-_VH8020heV7nFRtLP3XUZkUCc
+
+
+## How To Get Started
+1- **Clone the repository** : Start by cloning the game files to your local machine. To play the game you need to clone the "Game" folder. If your purpose is the project files, you can clone the "Project" folder instead.<br>
+2- **Launch the executable** : Double click on the .exe file and that's it. Easy as a breeze.
+
+## Contribution 
+Ready to level up Lythrum and make it an absolute blast? I want to hear your thoughts on the game! Share what made you jump for joy, what got you scratching your head, and any wild ideas you've got brewing. Don't be shy, reach out to me directly at marcoviciidefururu@gmail.com and let's make Lythrum the most epic adventure together!🚀🎮
+
+*Note: Lythrum is a work in progress and is intended to be an educational project. No profit is expected from the game. I'd like to thank every artist whose assets I used for the creation of Lythrum and I do not claim ownership of their work.*
